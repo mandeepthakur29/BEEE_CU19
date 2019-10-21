@@ -1,0 +1,4 @@
+Aim- Design a system for washing machines such that whenever it is filled, a Red LED turns on and if it is empty, a 
+Green LED blinks once every 20 ms.
+
+Apparatus- LEDs,Breadboard,wires,audrino
